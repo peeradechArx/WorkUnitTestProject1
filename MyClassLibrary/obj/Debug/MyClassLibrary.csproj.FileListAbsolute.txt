@@ -1,0 +1,6 @@
+C:\Users\ASUS\source\repos\WorkUnitTestProject\MyClassLibrary\bin\Debug\MyClassLibrary.dll
+C:\Users\ASUS\source\repos\WorkUnitTestProject\MyClassLibrary\bin\Debug\MyClassLibrary.pdb
+C:\Users\ASUS\source\repos\WorkUnitTestProject\MyClassLibrary\obj\Debug\MyClassLibrary.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\WorkUnitTestProject\MyClassLibrary\obj\Debug\MyClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\WorkUnitTestProject\MyClassLibrary\obj\Debug\MyClassLibrary.dll
+C:\Users\ASUS\source\repos\WorkUnitTestProject\MyClassLibrary\obj\Debug\MyClassLibrary.pdb
