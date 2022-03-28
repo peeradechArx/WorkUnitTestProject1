@@ -47,7 +47,7 @@
     
 ข้อ 4
 
-      สร้างฟังก์ชั่นคำสั่ง cheackPassword โดยรับค่า password ในหน่วย string ส่งค่ากลับเป็น string 
+      สร้างฟังก์ชั่นคำสั่ง CheackPassword โดยรับค่า password ในหน่วย string ส่งค่ากลับเป็น string 
      ใช้ if ถ้า password คือ abc12345 ให้ส่งค่าเป็น True
      ใช้ else if  password คือ abc123 ให้ส่งค่าเป็น ' ' = False 
      ใช้ else if  password คือ abcdefgh ให้ส่งค่าเป็น ' ' = False
